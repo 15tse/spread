@@ -17,6 +17,6 @@ function mul(...numbers){
 }
 const result = mul(1,2,3,4,5);
 console.log(result)
-const colors=['red','yellow','green']
+const colors=['red','yellow','bule']
 const copyofcolors=[...colors]
 console.log(copyofcolors)
